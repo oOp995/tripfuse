@@ -2,6 +2,7 @@
 mod error;
 
 ///fuses module, explore ...
+/// 
 mod fuses;
 
 pub use error::TripError;
