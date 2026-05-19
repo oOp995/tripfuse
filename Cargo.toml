@@ -13,15 +13,10 @@ categories = ["cryptography", "security", "authentication", "rust-patterns"]
 
 keywords = [
     "one-time",
-    "fuse",
-    "security",
     "secrets",
     "otp",
-    "consumable",
-    "single-use",
     "token",
     "authenticator",
-    "once"
 ]
 
 [badges]
